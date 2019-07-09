@@ -1,0 +1,18 @@
+hash: 6LauLNfRlEr1oxnvzvixkblj0S3CWKypFEl-Gystq9g
+question:
+  message: Here are a few more numbers. The same rules apply.
+  rules:
+  - number: 3
+    response: Fizz
+  - number: 5
+    response: Buzz
+  numbers:
+  - 0
+  - 1
+  - 7
+  - 96
+  - 19
+  example_response:
+    answer: ""
+answer: FizzBuzz 1 7 Fizz 19
+next_stage_hash: 7guGU_ORuOhAtmVk-bTrk2miZTDMq-OYkEFVXIufUV0

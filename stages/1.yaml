@@ -1,0 +1,12 @@
+hash: "1"
+question:
+  message: |-
+    What is your favorite programming language?
+    Mine is COBOL, of course.
+    POST your answer back to this URL in JSON format. If you are having difficulties, see the exampleResponse provided.
+  rules: []
+  numbers: []
+  example_response:
+    answer: COBOL
+answer: Go
+next_stage_hash: nhi73n6-a5ANoeCYk8Pm5BKGxSL52J4nDMQjP3fDYCw
