@@ -1,4 +1,4 @@
-module fbsl
+module fizzbotplay
 
 require (
 	github.com/c-bata/go-prompt v0.2.3
